@@ -14,12 +14,14 @@
 <img src="https://img.shields.io/badge/-Python-orange?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TypeScript-yellow?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Solidity-green?style=flat-square&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Rust-maroon?style=flat-square&logo=rust&logoColor=white"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/-Openzeppelin-salmon?style=flat-square&logo=openzeppelin&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Hardhat-beige?style=flat-square&logo=hardhat&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TheGraph-plum?style=flat-square&logo=thegraph&logoColor=white"/>
+<img src="https://img.shields.io/badge/-supabase-apricot?style=flat-square&logo=supabase&logoColor=white"/>
 
 <br/>
 
