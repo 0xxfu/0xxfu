@@ -64,5 +64,5 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=0xxfu&column=7&theme=radical"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=0xxfu&column=4&theme=radical"/>
 </p>
