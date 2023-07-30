@@ -59,6 +59,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=0xxfu&show_icons=true&theme=radical">
 </p>
 
+<!-- 
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=0xxfu&theme=radical">
 </p>
@@ -66,3 +67,4 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=0xxfu&column=4&theme=radical"/>
 </p>
+-->
