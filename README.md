@@ -47,15 +47,13 @@
 <img src="https://img.shields.io/badge/-Docker%20Compose-mint?style=flat-square&logo=docker-compose&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon%20AWS-coral?style=flat-square&logo=amazon-aws&logoColor=white"/>
 
+<!-- 
 </p>
 
-
-
 <br>
 <br>
 <br>
 
-<!-- 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=0xxfu&show_icons=true&theme=radical">
 </p>
