@@ -1,12 +1,15 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey👋, I am xfu.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey👋, I am xfu.
+<a target="_blank" href="https://www.twitter.com/0xxfu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=24></a>
+</h1>
 
+<!-- 
 <h3 align="center">
 📫 To reach me:
 <a target="_blank" href="https://www.twitter.com/0xxfu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=24></a>
 </h3>
 
 <h2 align="center">Things I code with 👇👇👇</h2>
-
+-->
 
 <p align="center">
 
